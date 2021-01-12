@@ -1,0 +1,8 @@
+html {
+    overflow: hidden;
+}
+
+body {
+    background: url(../backGround_space.jpg);
+    background-size: cover;
+}
